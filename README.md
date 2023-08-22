@@ -30,4 +30,4 @@ Stay tuned for updates as we enhance this workflow!
 
 ---
 
-[Copyright © YourCompany](https://www.yourcompany.com) | [License](LICENSE)
+
